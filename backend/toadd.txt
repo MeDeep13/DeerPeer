@@ -1,0 +1,23 @@
+here what more i will be adding to my project!!!!!!!!!!
+
+1. all users visible to the admin [DONE]
+2. only the user and the admin can see personal orders [DONE]
+6. without logging out, i am able to create a new user? [Done]
+5. debug get /api/orders/myorders [Done]
+4. hostel id scoping [Done]
+7. why i'm getting validation error while createing new order from himanshu id? [Done]
+(user_id field in order schema taklif de rha hai) (sol: i signed token field as id and was using _id)
+3.  do something of accepting orders [Done] 
+3.1 and preventing double-claim [Done]
+3.2 removing the request from feed[Done]
+
+
+3.3 but keeping it in the history []
+8. Show the order to the user who accepted it []
+9. History of orders completed for both requestee and accepter []
+10. A user can't accept his own requests []
+
+
+loopholes !!!!!!!!!!!!!!!!!!! 
+
+1. What if a user requests same thing twice unknowngliy and refuses to accept 2? []

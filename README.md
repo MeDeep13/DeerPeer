@@ -1,5 +1,5 @@
 # DearPeer
-- DearPeer is a peer-to-peer micro devliery application
+- DearPeer is a peer-to-peer micro delivery application
 ## Tech stack
 - ### Backend: Node.js, Express.js
 - ### Database: MongoDB

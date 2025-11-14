@@ -4,3 +4,5 @@
 - ### Backend: Node.js, Express.js
 - ### Database: MongoDB
 - ### Frontend: Sober UI with Vanilla JS
+
+# Setup
